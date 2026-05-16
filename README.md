@@ -1,6 +1,6 @@
 ### 👋 Chào mọi người, mình là Dương Hải Đăng!
 
-Mình là sinh viên năm hai tại **Học Viện Kỹ Thuật Mật Mã**, với niềm đam mê xây dựng các sản phẩm phần cứng và hệ thống IoT thông minh, từ ý tưởng, thiết kế mạch cho đến lập trình firmware.
+Mình là sinh viên năm bốn tại **Học Viện Kỹ Thuật Mật Mã**, với niềm đam mê xây dựng các sản phẩm phần cứng và hệ thống IoT thông minh, từ ý tưởng, thiết kế mạch cho đến lập trình firmware.
 
 ---
 
